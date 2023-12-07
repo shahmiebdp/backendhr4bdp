@@ -1,0 +1,1 @@
+INSERT INTO BDP_CITY (NAME, STATE, COUNTRY) VALUES ('San Francisco', 'CA', 'US');
